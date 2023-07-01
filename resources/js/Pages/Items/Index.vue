@@ -16,7 +16,6 @@ defineProps({
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
                 商品一覧
             </h2>
-            {{ $page.props.flash.message }}
         </template>
 
         <div class="py-12">
